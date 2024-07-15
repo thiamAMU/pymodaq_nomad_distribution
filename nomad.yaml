@@ -32,3 +32,5 @@ plugins:
       python_package: nomad_measurements
     parsers/nomad_measurements/xrd:
       python_package: nomad_measurements.xrd.parser
+    schemas/pymodaq:
+      python_package: pymodaq_nomad_plugin
